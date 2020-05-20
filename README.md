@@ -1,2 +1,5 @@
 # ESCs_models
-Agent-based modelling of pattern formation in embryonic stem cells
+This repository holds the code of agent-based models of pattern formation in embryonic stem cells.
+Models were constructed in NetLogo.
+
+
